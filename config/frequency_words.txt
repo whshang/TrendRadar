@@ -3,99 +3,77 @@ GPT
 ChatGPT
 Sora
 DALL-E
-+模型
 
 Gemini
 Google
 DeepMind
 Bard
-+AI
 
 Claude
 Anthropic
-+助手
 
 Grok
 xAI
 马斯克
-+AI
 
 Qwen
 通义千问
 阿里云
-+大模型
 
 GLM
 智谱AI
-+对话
 
 Kimi
 月之暗面
 月之暗面AI
-+智能
 
 DeepSeek
 深度求索
-+模型
 
 文心一言
 百度
-+AI
 
 腾讯
 混元
-+大模型
 
 字节跳动
 豆包
-+AI
 
 AI工具
 生产力工具
 效率工具
-+工作
 
 编程工具
 代码助手
 开发工具
-+编程
 
 API接口
 免费API
 开放API
-+开发者
 
 AI助手
 智能助手
 聊天机器人
-+对话
 
 机器学习
 深度学习
-+技术
 
 自然语言处理
 NLP
-+应用
 
 计算机视觉
 CV
 图像识别
-+AI
 
 大语言模型
 LLM
-+技术
 
 提示词
 Prompt
-+工程
 
 AI应用
 智能应用
-+落地
 
 AI创业
 AI公司
 融资
-+商业
